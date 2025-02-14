@@ -4,15 +4,15 @@
 
 ### Compilación y ejecución
 
-# Compilar el proyecto
+### Compilar el proyecto
 ```sh
 mvn compile
 ```
-# Ejecutar el juego
+### Ejecutar el juego
 ```sh
 mvn exec:java
 ```
-# Ejecutar con argumento
+### Ejecutar con argumento
 ```sh
 mvn exec:java -Dexec.args="rpg"
 
