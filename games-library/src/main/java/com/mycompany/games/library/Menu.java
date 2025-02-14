@@ -32,4 +32,15 @@ public class Menu {
         System.out.println("6. Salir");
         System.out.println("----------------------------------------------------");
     }
+    
+    public void showBattleMenu(){
+        System.out.println("----------------------------------------------------");
+        System.out.println("BATALLA EN CURSO");
+        System.out.println("Seleccione una opcion 1-4");
+        System.out.println("1. Atacar");
+        System.out.println("2. Curar");
+        System.out.println("3. Item");
+        System.out.println("4. Tengo miedo!");
+        System.out.println("----------------------------------------------------");
+    }
 }
